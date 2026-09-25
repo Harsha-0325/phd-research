@@ -1,4 +1,7 @@
-# 3. The Gap and the Two-Paper Plan
+# 3. The Gap and the Two-Paper Plan (first pass, superseded)
+
+> ⚠️ **Superseded by [file 05](05-cross-domain-scan.md).** Paper 1 below is built on the steel dataset, which has
+> already been tried. Paper 2 (the volumetric CT anomaly detection benchmark) is still a valid backup.
 
 ## The one-paragraph version
 

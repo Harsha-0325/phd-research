@@ -7,7 +7,13 @@ A shared workspace for finding a research gap and turning it into two publishabl
 **Goal:** find where deep-learning / computer-science skills can make a *real* contribution
 in the "imaging + metals" space, not just another accuracy table.
 
-## How to read this repo (in order)
+## ⭐ Start here: [`research/05-cross-domain-scan.md`](research/05-cross-domain-scan.md)
+
+The latest recommendation is **deep learning for muon scattering tomography**: imaging dense metals with cosmic rays.
+It's an emerging field with basic ML, no public benchmark, and a direct fit for CNN / 3D-volume skills.
+Files 01–03 below were the first pass, anchored on the steel CT dataset. Keep them as background only.
+
+## Earlier files (background)
 
 | # | File | What it tells you | Time to read |
 |---|------|-------------------|--------------|
