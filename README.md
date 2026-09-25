@@ -7,7 +7,12 @@ A shared workspace for finding a research gap and turning it into two publishabl
 **Goal:** find where deep-learning / computer-science skills can make a *real* contribution
 in the "imaging + metals" space, not just another accuracy table.
 
-## ⭐ Start here: [`research/05-cross-domain-scan.md`](research/05-cross-domain-scan.md)
+## ⭐ Start here: [`research/06-topic-decision.md`](research/06-topic-decision.md)
+
+This is the topic, the evidence behind it, the committee questions with answers, and the 160-hour plan.
+Background for it is in [`research/05-cross-domain-scan.md`](research/05-cross-domain-scan.md).
+
+## Why muography
 
 The latest recommendation is **deep learning for muon scattering tomography**: imaging dense metals with cosmic rays.
 It's an emerging field with basic ML, no public benchmark, and a direct fit for CNN / 3D-volume skills.
