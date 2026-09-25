@@ -62,9 +62,10 @@ and that turns a "method swap" into a *justified* contribution.
   ("PH is a strong prior; here is when learned models help, and here is how to trust either one").
 
 ### Where to submit
-International conferences, which is what her professor asked for: IEEE ICIP, ICMLA, IJCNN, or the **AI for Materials (AI4Mat)**
-workshop at NeurIPS/ICML. A journal extension would suit *Computational Materials Science* or *Integrating Materials and
-Manufacturing Innovation*. *(Check the current deadlines before committing to one.)*
+International conferences, which is what her professor asked for: IEEE ICIP (~25% acceptance), IJCNN (~39%) or ICMLA.
+The **AI4Mat** workshop is good for early feedback but is **non-archival**, so it likely won't count as a publication.
+A journal extension would suit *Computational Materials Science* or *Integrating Materials and Manufacturing Innovation*.
+See [file 04](04-venues-and-competition.md) for acceptance rates. *(Check the current deadlines before committing to one.)*
 
 ---
 

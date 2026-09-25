@@ -14,7 +14,8 @@ in the "imaging + metals" space, not just another accuracy table.
 | 1 | [`research/01-reference-dataset.md`](research/01-reference-dataset.md) | What the steel CT dataset is, and what has already been done with it | 5 min |
 | 2 | [`research/02-landscape.md`](research/02-landscape.md) | Map of the field: which topics are crowded, which are thin | 10 min |
 | 3 | [`research/03-gap-and-paper-plan.md`](research/03-gap-and-paper-plan.md) | **The recommendation:** two paper ideas, why they are gaps, how to do them | 10 min |
-| 4 | [`research/glossary.md`](research/glossary.md) | Plain-English meanings of the materials-science words | as needed |
+| 4 | [`research/04-venues-and-competition.md`](research/04-venues-and-competition.md) | Acceptance rates, how competitive it is, most recent papers | 5 min |
+| 5 | [`research/glossary.md`](research/glossary.md) | Plain-English meanings of the materials-science words | as needed |
 
 If you only read one file, read **#3**.
 
